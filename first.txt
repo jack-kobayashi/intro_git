@@ -1,0 +1,2 @@
+Git training
+basic work flow of git
